@@ -92,10 +92,10 @@ zkVM 作为一种结合零知识证明（Zero-Knowledge Proof, ZKP）和虚拟�
 
 - 第七节课：ZKM 的 prover 证明详解
   - 导师：Daniel，时间：2025 年 1 月 21 日晚 8 点(星期二)
-  - 课程回放：
-  - 课件：
+  - 课程回放：[Youtube](https://youtu.be/KlhQns_8QII)
+  - 课件：[链接](https://github.com/Antalpha-Labs/zkp-academy/blob/main/ZKVM/lesson%207/ZKM%20Prover基本构造课程.pptx)
 - 第八节课：zkVM 实操讲解
-  - 导师：，时间：2025 年 1 月 23 日晚 8 点(星期四)
+  - 导师：johnxu，时间：2025 年 1 月 23 日晚 8 点(星期四)
   - 课程回放：
   - 课件：
 - 答疑：周六晚上 8 点
