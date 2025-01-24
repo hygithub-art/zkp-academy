@@ -76,6 +76,7 @@ zkVM 作为一种结合零知识证明（Zero-Knowledge Proof, ZKP）和虚拟�
     - [Memory management in VM](https://blog.tigris.fr/2019/07/28/writing-an-emulator-memory-management/)
     - [Writing a simple RISC-V emulator in plain C](https://fmash16.github.io/content/posts/riscv-emulator-in-c.html)
   - 课件：[链接](https://github.com/Antalpha-Labs/zkp-academy/blob/main/ZKVM/lesson%204/Introduce%20the%20zkVM.pdf)
+- 第二周思考题（作业）：[discussion](https://github.com/Antalpha-Labs/zkp-academy/discussions/69)
 - 答疑：周六晚上 8 点
 
 【第三周课程安排】
