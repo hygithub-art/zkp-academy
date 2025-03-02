@@ -124,11 +124,13 @@ zkVM 作为一种结合零知识证明（Zero-Knowledge Proof, ZKP）和虚拟�
 
 ## Co-learning bounty
 
-- 为鼓励学员学习与分享，本课程继续 Co-learn notes bounty 活动，学员可以将学习中的内容整理成个人笔记提交到 [co-learn notes](https://github.com/Antalpha-Labs/zkp-academy/tree/main/ZKVM/co-learn-notes) 目录下，收录后每篇笔记给出 200 CNY 的 bounty，并发布在 Antalpha-Labs 公众号上。
+- 为鼓励学员学习与分享，本课程继续 Co-learn notes bounty 活动，学员可以将学习中的内容整理成个人笔记提交到 [co-learn notes](https://github.com/Antalpha-Labs/zkp-academy/tree/main/ZKVM/co-learn-notes) 目录下，收录后每篇笔记给出 200 CNY 的 bounty，并发布在 Coset 公众号上。
 
 - 报名助教，积极回答技术问题，推动学员一起学习，不止退回押金，还可以收获 200 CNY 的 bounty。
 
 \*笔记主题围绕 ZKP 相关技术，不局限于 zkVM。
+
+**联系方式**：添加小助手微信 Coset2025
 
 ## Sponsor
 
