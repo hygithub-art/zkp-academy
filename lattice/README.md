@@ -133,6 +133,14 @@
 
 ## Mentors & Assistants
 
+- **Kurt:** A Crypto-primitive-libertarian-socialist, aka a ZKPunk.
+- **高尚:** 香港理工大学助理教授，近期的兴趣是研究 Lattice。
+- **Yingfei:** 密码学博士，I'm interested in lattice-based zero-knowledge proofs and signatures.
+- **Bing:** Independent Researcher
+
+
+- **龙哥密码:** 密码学卷士生，研究过非公钥密码，对称密码，有什么不懂的随时向我请教
+- **zlz:** 密码学 phd，目前研究方向是 lattice based cryptography.
 
 
 ## Co-learning bounty
