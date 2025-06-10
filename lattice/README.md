@@ -129,14 +129,6 @@
 
 
 【课后作业】
-@所有人 本期课程全部结束🎉，目前有四个作业给到大家，其实也是思考题，大家可以挑选任意一个（里面的任何一个问题）解答，这些问题也是帮助大家更了解zkVM，提前祝大家过节好呀🧧！
-[第一周作业](https://github.com/coset-io/zkp-academy/discussions/66)
-
-[第二周作业](https://github.com/coset-io/zkp-academy/discussions/69)
-
-[zkVM课程作业(三)Add instruction in SP1](https://github.com/coset-io/zkp-academy/discussions/70)
-
-[zkVM系列课程作业(四) 性能分析](https://github.com/coset-io/zkp-academy/discussions/71)
 
 
 ## Mentors & Assistants
