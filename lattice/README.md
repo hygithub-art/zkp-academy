@@ -42,33 +42,36 @@
   - 课程回放：
   - 参考资料：
   - 课件：
-- 第二节课：数学基础
-  - 讲师：yingfei
+- 第二节课：Lattice是什么 & average-case and worst-case hard problems
+  - 讲师：Yingfei 时间：6 月 19 日晚 8 点（星期四）
   - 课程回放：
   - 课件：
-  - 推荐阅读：
+  - 推荐阅读：Chapter 1 & 2, [Lattice Based Cryptography for Beginners](https://eprint.iacr.org/2015/938.pdf)
 - 答疑：周六晚上 8 点
 
 【第二周课程安排】
 
-- 第三节课：数学基础
-  - 讲师：yingfei
+- 第三节课：Discrete Gaussians, Rejection Sampling, Rings and Modules 
+  - 讲师：Yingfei 时间：6 月 24 日晚 8 点（星期二）
   - 课程回放：
   - 参考资料：
+    - Chapter 3, [Lattice Based Cryptography for Beginners](https://eprint.iacr.org/2015/938.pdf)
+    - The Mathematics of Lattice-Based Cryptography, [Cryptography 101](https://cryptography101.ca/lattice-based-cryptography/)
+    - [Worst-case to average-case reductions for module lattices.](https://eprint.iacr.org/2012/090.pdf)
   - 课件：
-- 第四节课：数学基础
-  - 讲师：yingfei
+- 第四节课：NTT and its implementations
+  - 讲师：Bing  时间：6 月 26 日晚 8 点（星期四）
   - 课程回放：
   - 课件：
-  - 推荐阅读：
+  - 推荐阅读：[Multidigit Multiplication For Mathematicians](https://cr.yp.to/papers/m3-20010811-retypeset-20220327.pdf)
 - 答疑：周六晚上 8 点
 
 【第三周课程安排】
 
-- 第五节课：数学基础
-  - 讲师：yingfei
+- 第五节课：Ajtai Commitment and Lyubashevsky Signature/Proofs
+  - 讲师：Yingfei  时间：7 月 1 日晚 8 点（星期二）
   - 课程回放：
-  - 参考资料：
+  - 参考资料：Chapter 5, [Basic Lattice Cryptography](https://eprint.iacr.org/2024/1287.pdf)
   - 课件：
 - 第六节课：PCS Greyhound Labrador
   - 讲师：高老师
