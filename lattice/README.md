@@ -27,9 +27,6 @@
 
 - 💬 线上答疑：https://github.com/coset-io/zkp-academy/discussions
 
-### 3. 课程目标：
-
-通过本期共学，参与学员将对 zkVM 形成一个高层认知，可以了解到 zkVM 的历史发展与未来的发展机会，其系统架构、虚拟机(VM) 、prover 架构设计，以及最起码会使用一个 zkVM。
 
 ## Course materials
 
