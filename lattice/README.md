@@ -1,0 +1,178 @@
+# Lattice Course
+
+## Background
+
+何为 Lattice？ 简单来说，它建立在多维空间中「点阵」这一精妙的数学结构之上，由此构造的密码学难题被认为具有极强的抗量子攻击能力。对于当下的 ZKP 发展而言，Lattice 的意义绝非锦上添花，而是关乎根基与未来的战略选择：
+
+首先，这是量子安全的迫切需求。现有的主流 ZKP 方案（如基于椭圆曲线、pairing）在量子计算机面前存在理论上的脆弱性。Lattice 为构建后量子安全的零知识证明（PQ-ZKP） 提供了最具前景的数学基础。
+
+其次，Lattice 具有构建新型 ZK 原语的潜力。当下基于格的方案已催生多项高级密码原语的构造：全同态加密（FHE）、属性基加密（ABE）、功能加密(FE)、不可区分混淆（iO）。
+
+目前，活跃的研究前沿与标准化进程已经为 Lattice 在密码学（包括 ZKP）中的实际应用铺平了道路。NIST 的后量子密码标准化项目已遴选出多个基于 Lattice 的算法，学习 Lattice，就是参与到这场塑造未来密码格局的变革之中。
+
+深入理解 Lattice，已不仅是密码学理论研究者的课题，更是每一位关注 ZKP 长期发展、致力于构建真正安全可信未来数字基础设施的实践者，不可或缺的知识拼图与前瞻布局。
+
+## Intro
+本次课程，我们将以 Lattice based snark 为主，从数学、pcs 及工程化三个部分展开.
+
+### 1. 课程时间：
+
+2025 年 6 月 16 日 - 2025 年 7 月 27 日 （6周）
+
+### 2. 课程形式：
+
+- 🧑‍🏫 线上直播（Zoom），每周二/四，一周两节（1-1.5h/节）
+
+- 📢 课程通知、交流讨论（微信群）
+
+- 💬 线上答疑：https://github.com/coset-io/zkp-academy/discussions
+
+### 3. 课程目标：
+
+通过本期共学，参与学员将对 zkVM 形成一个高层认知，可以了解到 zkVM 的历史发展与未来的发展机会，其系统架构、虚拟机(VM) 、prover 架构设计，以及最起码会使用一个 zkVM。
+
+## Course materials
+
+1. [Lattice Wiki](https://wiki.lacom.io/)
+2. 
+
+## Class schedule
+
+【第一周课程安排】
+
+- 第一节课：Lattice Overview & 为什么要学习 Lattice
+  - 讲师：Kurt，时间：6 月 17 日晚 8 点（星期二）
+  - 课程回放：
+  - 参考资料：
+  - 课件：
+- 第二节课：数学基础
+  - 讲师：yingfei
+  - 课程回放：
+  - 课件：
+  - 推荐阅读：
+- 答疑：周六晚上 8 点
+
+【第二周课程安排】
+
+- 第三节课：数学基础
+  - 讲师：yingfei
+  - 课程回放：
+  - 参考资料：
+  - 课件：
+- 第四节课：数学基础
+  - 讲师：yingfei
+  - 课程回放：
+  - 课件：
+  - 推荐阅读：
+- 答疑：周六晚上 8 点
+
+【第三周课程安排】
+
+- 第五节课：数学基础
+  - 讲师：yingfei
+  - 课程回放：
+  - 参考资料：
+  - 课件：
+- 第六节课：PCS Greyhound Labrador
+  - 讲师：高老师
+  - 课程回放：
+  - 课件：
+  - 推荐阅读：
+- 答疑：周六晚上 8 点
+
+【第四周课程安排】
+
+
+- 第七节课：PCS Greyhound Labrador
+  - 讲师：高老师
+  - 课程回放：
+  - 参考资料：
+  - 课件：
+- 第八节课：PCS Greyhound Labrador
+  - 讲师：高老师
+  - 课程回放：
+  - 课件：
+  - 推荐阅读：
+- 答疑：周六晚上 8 点
+
+
+
+【第五周课程安排】
+
+
+- 第七节课：PCS Greyhound Labrador
+  - 讲师：高老师
+  - 课程回放：
+  - 参考资料：
+  - 课件：
+- 第八节课：工程实践
+  - 讲师：Kurt
+  - 参考资料：《格密碼分析初步》 https://wiki.lacom.io/wiki/fpylll 
+  - 课程回放：
+  - 课件：
+  - 推荐阅读：
+- 答疑：周六晚上 8 点
+
+
+【第五周课程安排】
+
+
+- 第九节课：工程实践
+  - 讲师：Kurt
+  - 参考资料：《格密碼分析初步》 https://wiki.lacom.io/wiki/fpylll 
+  - 课程回放：
+  - 课件：
+  - 推荐阅读：
+
+
+
+
+
+【课后作业】
+@所有人 本期课程全部结束🎉，目前有四个作业给到大家，其实也是思考题，大家可以挑选任意一个（里面的任何一个问题）解答，这些问题也是帮助大家更了解zkVM，提前祝大家过节好呀🧧！
+[第一周作业](https://github.com/coset-io/zkp-academy/discussions/66)
+
+[第二周作业](https://github.com/coset-io/zkp-academy/discussions/69)
+
+[zkVM课程作业(三)Add instruction in SP1](https://github.com/coset-io/zkp-academy/discussions/70)
+
+[zkVM系列课程作业(四) 性能分析](https://github.com/coset-io/zkp-academy/discussions/71)
+
+
+## Mentors & Assistants
+
+- **Dream:** 前 Scroll Core Engineer, Blocksight 作者。数学&密码学持续学习者，前爱立信，微软高级工程师，区块链与隐私计算一线工程研发。
+- **wangyao:** fluent zk 工程师。数学博士（未完成）研究 ZK，学习 FHE，探索代数学和密码学的相交地带。
+- **郭宇:** SECBIT Labs （安比实验室）创始人，曾经高校教育从业者，关注领域为零知识证明，智能合约安全，程序语言理论。
+- **backdoor:** OKX ZK Dev，代码和理论两手抓，希望跟大家多交流学习～
+- **johnxu:** zk 和 rust 爱好者， 密码学工程师
+- **Daniel:** 浙江大学博士后研究员，密码学博士，曾在 NDSS，TIFS 等旗舰会议和期刊发表多篇论文，主要研究方向为安全多方计算和零知识证明。
+- **Harold:** 研究 zk 协议 todolist 望不到头的人，偶尔会做一些技术分享，欢迎大家来一起讨论～
+- **Kyrin:** 区块链方向博士，zkp 技术爱好者，与大佬们学习最新技术。
+
+## Co-learning bounty
+
+- 为鼓励学员学习与分享，本课程继续 Co-learn notes bounty 活动，学员可以将学习中的内容整理成个人笔记提交到 github co-learn notes 目录下，收录后每篇笔记给出 200 CNY 的 bounty，并发布在 Coset 公众号上。
+
+- 报名助教，积极回答技术问题，推动学员一起学习，不止退回押金，还可以收获 200 CNY 的 bounty。
+
+- 值得一提的是，本次我们还鼓励大家成为 Lattice 发展的早期贡献者，为 Lattice 的未来发展添砖加瓦！对此，我们将会给予一定 bounty 的奖励，主要有以下两个方向：
+
+「共建 Lattice Wiki」 🔗：https://wiki.lacom.io/
+
+「Lattice 工程化实现」🔗：https://github.com/lattice-complete/Lazarus
+
+\*笔记主题围绕 ZKP 相关技术，不局限于 Lattice。
+
+
+
+
+**联系方式**：添加小助手微信 Coset2025
+
+## Sponsor
+
+<img src="assets/KEF-LND-BLK.png" width="75%;"/>
+
+
+
+
