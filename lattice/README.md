@@ -59,7 +59,7 @@
     - The Mathematics of Lattice-Based Cryptography, [Cryptography 101](https://cryptography101.ca/lattice-based-cryptography/)
     - [Worst-case to average-case reductions for module lattices.](https://eprint.iacr.org/2012/090.pdf)
   - 课件：
-- 第四节课：NTT and its implementations
+- 第四节课：Why NTT and how it works
   - 讲师：Bing，  时间：6 月 26 日晚 8 点（星期四）
   - 课程回放：
   - 课件：
