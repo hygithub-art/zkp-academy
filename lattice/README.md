@@ -36,8 +36,7 @@
 ## Class schedule
 
 【第一周课程安排】
-
-- 第一节课：Lattice Overview & 为什么要学习 Lattice
+- 第一节课：Lattice Cryptography Overview & Why Lattice is the Future of PQ ZK Blockchain
   - 讲师：Kurt，时间：6 月 17 日晚 8 点（星期二）
   - 课程回放：
   - 推荐阅读：
@@ -105,9 +104,9 @@
   - 课程回放：
   - 参考资料：
   - 课件：
-- 第八节课：工程实践
+- 第八节课：格密碼分析初步
   - 讲师：Kurt
-  - 参考资料：《格密碼分析初步》 https://wiki.lacom.io/wiki/fpylll 
+  - 参考资料：https://wiki.lacom.io/wiki/fpylll 
   - 课程回放：
   - 课件：
   - 推荐阅读：
@@ -117,9 +116,9 @@
 【第五周课程安排】
 
 
-- 第九节课：工程实践
+- 第九节课：Lattice ZKP : the Past, Now and the Future
   - 讲师：Kurt
-  - 参考资料：《格密碼分析初步》 https://wiki.lacom.io/wiki/fpylll 
+  - 参考资料：
   - 课程回放：
   - 课件：
   - 推荐阅读：
