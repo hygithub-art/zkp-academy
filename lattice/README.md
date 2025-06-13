@@ -39,7 +39,7 @@
 - 第一节课：Lattice Cryptography Overview & Why Lattice is the Future of PQ ZK Blockchain
   - 讲师：Kurt，时间：6 月 17 日晚 8 点（星期二）
   - 课程回放：
-  - 推荐阅读：
+  - 推荐阅读：[Lattice Wiki](https://wiki.lacom.io/)
   - 课件：
 - 第二节课：Lattice是什么 & average-case and worst-case hard problems
   - 讲师：Yingfei， 时间：6 月 19 日晚 8 点（星期四）
@@ -115,7 +115,7 @@
 - 答疑：周六晚上 8 点
 
 
-【第五周课程安排】
+【第六周课程安排】
 
 
 - 第九节课：Lattice ZKP : the Past, Now and the Future
