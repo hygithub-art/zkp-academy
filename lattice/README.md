@@ -72,26 +72,27 @@
   - 课程回放：
   - 推荐阅读：Chapter 5, [Basic Lattice Cryptography](https://eprint.iacr.org/2024/1287.pdf)
   - 课件：
-- 第六节课：PCS Greyhound Labrador
+- 第六节课：Building SNARKs
   - 讲师：高老师
   - 课程回放：
   - 课件：
-  - 推荐阅读：
+  - 推荐阅读：[How to Make SNARKs](https://www.youtube.com/watch?v=KjkIQLJk4eQ)
 - 答疑：周六晚上 8 点
 
 【第四周课程安排】
 
 
-- 第七节课：PCS Greyhound Labrador
+- 第七节课：Realizing Polynomial Commitment Schemes
   - 讲师：高老师
   - 课程回放：
+  - 推荐阅读：
+  - 课件：
+  - 推荐阅读：[MLE-PCS: Comparison of Multilinear Polynomial Commitment Schemes](https://github.com/sec-bit/mle-pcs)
+- 第八节课：LaBRADOR
+  - 讲师：高老师
+  - 课程回放：
+  - 课件：
   - 推荐阅读：[LaBRADOR: Compact Proofs for R1CS from Module-SIS](https://eprint.iacr.org/2022/1341.pdf)
-  - 课件：
-- 第八节课：PCS Greyhound Labrador
-  - 讲师：高老师
-  - 课程回放：
-  - 课件：
-  - 推荐阅读：[Greyhound: Fast Polynomial Commitments from Lattices](https://eprint.iacr.org/2024/1293.pdf)
 - 答疑：周六晚上 8 点
 
 
@@ -99,11 +100,12 @@
 【第五周课程安排】
 
 
-- 第七节课：PCS Greyhound Labrador
+- 第七节课：Greyhound
   - 讲师：高老师
   - 课程回放：
   - 参考资料：
   - 课件：
+  - 推荐阅读：[Greyhound: Fast Polynomial Commitments from Lattices](https://eprint.iacr.org/2024/1293.pdf)
 - 第八节课：格密碼分析初步
   - 讲师：Kurt
   - 参考资料：https://wiki.lacom.io/wiki/fpylll 
