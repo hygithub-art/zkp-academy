@@ -73,7 +73,7 @@
   - 推荐阅读：Chapter 5, [Basic Lattice Cryptography](https://eprint.iacr.org/2024/1287.pdf)
   - 课件：
 - 第六节课：Building SNARKs
-  - 讲师：高老师
+  - 讲师：高老师，时间：7 月 3 日晚 8 点（星期四）
   - 课程回放：
   - 课件：
   - 推荐阅读：[How to Make SNARKs](https://www.youtube.com/watch?v=KjkIQLJk4eQ)
@@ -83,13 +83,13 @@
 
 
 - 第七节课：Realizing Polynomial Commitment Schemes
-  - 讲师：高老师
+  - 讲师：高老师， 时间：7 月 8 日晚 8 点（星期二）
   - 课程回放：
   - 推荐阅读：
   - 课件：
   - 推荐阅读：[MLE-PCS: Comparison of Multilinear Polynomial Commitment Schemes](https://github.com/sec-bit/mle-pcs)
 - 第八节课：LaBRADOR
-  - 讲师：高老师
+  - 讲师：高老师， 时间：7 月 10 日晚 8 点（星期四）
   - 课程回放：
   - 课件：
   - 推荐阅读：[LaBRADOR: Compact Proofs for R1CS from Module-SIS](https://eprint.iacr.org/2022/1341.pdf)
@@ -101,13 +101,13 @@
 
 
 - 第七节课：Greyhound
-  - 讲师：高老师
+  - 讲师：高老师，时间：7 月 15 日晚 8 点（星期二）
   - 课程回放：
   - 参考资料：
   - 课件：
   - 推荐阅读：[Greyhound: Fast Polynomial Commitments from Lattices](https://eprint.iacr.org/2024/1293.pdf)
 - 第八节课：格密碼分析初步
-  - 讲师：Kurt
+  - 讲师：Kurt，时间：7 月 17 日晚 8 点（星期四）
   - 参考资料：https://wiki.lacom.io/wiki/fpylll 
   - 课程回放：
   - 课件：
@@ -119,7 +119,7 @@
 
 
 - 第九节课：Lattice ZKP : the Past, Now and the Future
-  - 讲师：Kurt
+  - 讲师：Kurt，时间：7 月 22 日晚 8 点（星期二）
   - 参考资料：
   - 课程回放：
   - 课件：
