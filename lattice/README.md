@@ -116,12 +116,12 @@
 【第六周课程安排】
 
 
-- 第十一节课：Lattice ZKP : the Past, Now and the Future
+- 第十一节课：Lattice ZKP Implementation : the Past, Now and the Future
   - 讲师：Kurt，时间：7 月 22 日晚 8 点（星期二）
   - 参考资料：
   - 课程回放：
   - 课件：
-  - 推荐阅读：
+  - 推荐阅读：https://lattice-zk.isec.tugraz.at/
 
 
 
