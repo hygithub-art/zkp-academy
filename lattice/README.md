@@ -40,7 +40,7 @@
   - 讲师：Kurt，时间：6 月 17 日晚 8 点（星期二）
   - 课程回放：
   - 推荐阅读：[Lattice Wiki](https://wiki.lacom.io/)
-  - 课件：
+  - 课件：[Slides](https://nbviewer.org/github/kurtpan666/KurtPan-Slides/blob/main/2506-lattice-overview/Kurt%20Pan-Lattice-Overview-2506.pdf)
 - 第二节课：Lattice是什么 & average-case and worst-case hard problems
   - 讲师：Yingfei， 时间：6 月 19 日晚 8 点（星期四）
   - 课程回放：
