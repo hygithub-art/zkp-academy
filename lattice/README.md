@@ -44,7 +44,7 @@
 - 第二节课：Lattice是什么 & average-case and worst-case hard problems
   - 讲师：Yingfei， 时间：6 月 19 日晚 8 点（星期四）
   - 课程回放：
-  - 课件：
+  - 课件：[Lattice-1](https://github.com/coset-io/zkp-academy/blob/main/lattice/slides/Lattice-1.pdf)
   - 推荐阅读：Chapter 1 & 2, [Lattice Based Cryptography for Beginners](https://eprint.iacr.org/2015/938.pdf)
 - 答疑：周六晚上 8 点
 
