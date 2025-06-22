@@ -165,7 +165,7 @@
 
 ## Sponsor
 
-<img src="assets/KEF-LND-BLK.png" width="75%;"/>
+<img src="assets/KEF-LND-BLK.png" width="50%;"/>
 
 
 
