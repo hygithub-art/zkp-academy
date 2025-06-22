@@ -38,12 +38,12 @@
 【第一周课程安排】
 - 第一节课：Lattice Cryptography Overview & Why Lattice is the Future of PQ ZK Blockchain
   - 讲师：Kurt，时间：6 月 17 日晚 8 点（星期二）
-  - 课程回放：[YouTube链接](https://youtu.be/bhOPQe9UDxk)
+  - 课程回放：[YouTube视频链接](https://youtu.be/bhOPQe9UDxk)
   - 推荐阅读：[Lattice Wiki](https://wiki.lacom.io/)
   - 课件：[Slides](https://kurtpan666.github.io/KurtPan-Slides/2506-lattice-overview/Kurt%20Pan-Lattice-Overview-2506.pdf)
 - 第二节课：Lattice是什么 & average-case and worst-case hard problems
   - 讲师：Yingfei， 时间：6 月 19 日晚 8 点（星期四）
-  - 课程回放：
+  - 课程回放：[YouTube视频链接](https://youtu.be/bhOPQe9UDxk)
   - 课件：[Lattice-1](https://github.com/coset-io/zkp-academy/blob/main/lattice/slides/Lattice-1.pdf)
   - 推荐阅读：Chapter 1 & 2, [Lattice Based Cryptography for Beginners](https://eprint.iacr.org/2015/938.pdf)
 - 答疑：周六晚上 8 点
@@ -160,6 +160,8 @@
 
 
 **联系方式**：添加小助手微信 Coset2025
+
+备注：不要吝啬给我们一个 star 哦～
 
 ## Sponsor
 
