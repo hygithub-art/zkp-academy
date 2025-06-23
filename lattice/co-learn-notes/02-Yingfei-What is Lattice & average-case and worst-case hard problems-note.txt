@@ -53,8 +53,15 @@ GapSVPγ：判定最短非零向量长度λ1<=d 或 λ1>γd
 
 平均情况问题：
 q元格定义
-Parity Check Lattice指：对矩阵A，满足Ax=0 mod q的x向量集合构成的格（x即A的核空间）
-Row-Generated Lattice指：对A和指定的s，满足y=As mod q的m维向量集构成的格
+Parity Check Lattice指：对矩阵A：n*m，满足Ax=0 mod q的x向量集合构成的格。这里的x即A的核空间，由所有将A映射(或理解为压缩)到0向量的向量组成
+
+Row-Generated Lattice指：对A：m*n和指定的s，满足y=As mod q的m维向量集构成的格。这里的y由所有将A通过与s相乘模q得到的m维向量组成，对A来说，y是根据其行向量生成的。
+
+两个格的应用：
+Row-Generated Lattice与后续Ajtai hash的H=Az mod q形式类似。
+要证明Ajtai hash的抗碰撞性，可以假设两个z1和z2得到相同的H，那么必然有A(z1-z2)=0，这样就等同于Parity Check Lattice（SIS格）上的SVP问题了（见01课p17）
+个人觉得就这里讲的内容而言，没必要把A从（Parity Check Lattice定义中的）n*m改成m*n
+
 Lemma5：求λ1的上界（Minikowski定理）和下界
 
 p8
