@@ -46,7 +46,7 @@
   - 课程回放：[YouTube视频链接](https://youtu.be/bhOPQe9UDxk)
   - 课件：[Lattice-1](https://github.com/coset-io/zkp-academy/blob/main/lattice/slides/Lattice-1.pdf)
   - 推荐阅读：Chapter 1 & 2, [Lattice Based Cryptography for Beginners](https://eprint.iacr.org/2015/938.pdf)
-- 答疑：周六晚上 8 点
+- 答疑：周六晚8点 [YouTube视频](https://youtu.be/xEXm5crprbI)
 
 【第二周课程安排】
 
