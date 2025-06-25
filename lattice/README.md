@@ -52,7 +52,7 @@
 
 - 第三节课：Discrete Gaussians, Rejection Sampling, Rings and Modules 
   - 讲师：Yingfei， 时间：6 月 24 日晚 8 点（星期二）
-  - 课程回放：
+  - 课程回放：[YouTube视频链接](https://youtu.be/cMIiD4tmdVg)
   - 推荐阅读：
     - Chapter 3, [Lattice Based Cryptography for Beginners](https://eprint.iacr.org/2015/938.pdf)
     - The Mathematics of Lattice-Based Cryptography, [Cryptography 101](https://cryptography101.ca/lattice-based-cryptography/)
