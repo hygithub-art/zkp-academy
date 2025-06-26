@@ -62,8 +62,9 @@
   - 讲师：Bing，  时间：6 月 26 日晚 8 点（星期四）
   - 课程回放：
   - 课件：
-  - 推荐阅读：[Multidigit Multiplication For Mathematicians](https://cr.yp.to/papers/m3-20010811-retypeset-20220327.pdf),
-            [NumberTheoretic Transform and Its Applications in Lattice-based Cryptosystems: ASurvey](https://arxiv.org/pdf/2211.13546)
+  - 推荐阅读：
+    - [Multidigit Multiplication For Mathematicians](https://cr.yp.to/papers/m3-20010811-retypeset-20220327.pdf),
+    - [NumberTheoretic Transform and Its Applications in Lattice-based Cryptosystems: ASurvey](https://arxiv.org/pdf/2211.13546)
 - 答疑：周六晚上 8 点
 
 【第三周课程安排】
