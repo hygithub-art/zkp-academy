@@ -31,4 +31,4 @@ A month-long zkp study group, one topic at a time.
 
 ### 🖐️ Contact
 
-Contact us: tg @qijinz
+Contact us: tg @qijinz , wechat: coset2025
