@@ -43,7 +43,7 @@
   - 课件：[Slides](https://kurtpan666.github.io/KurtPan-Slides/2506-lattice-overview/Kurt%20Pan-Lattice-Overview-2506.pdf)
 - 第二节课：Lattice是什么 & average-case and worst-case hard problems
   - 讲师：Yingfei， 时间：6 月 19 日晚 8 点（星期四）
-  - 课程回放：[YouTube视频链接]((https://youtu.be/wvCssFhn-rc)
+  - 课程回放：[YouTube视频链接](https://youtu.be/wvCssFhn-rc)
   - 课件：[Lattice-1](https://github.com/coset-io/zkp-academy/blob/main/lattice/slides/Lattice-1.pdf)
   - 推荐阅读：Chapter 1 & 2, [Lattice Based Cryptography for Beginners](https://eprint.iacr.org/2015/938.pdf)
 - 答疑：周六晚8点 [YouTube视频](https://youtu.be/xEXm5crprbI)
@@ -60,7 +60,7 @@
   - 课件：[Lattice-2](https://github.com/coset-io/zkp-academy/blob/main/lattice/slides/Lattice-2.pdf)
 - 第四节课：Why NTT and how it works
   - 讲师：Bing，  时间：6 月 26 日晚 8 点（星期四）
-  - 课程回放：
+  - 课程回放：[YouTube视频链接](https://youtu.be/94c3I3uXp6A)
   - 课件：
   - 推荐阅读：
     - [Multidigit Multiplication For Mathematicians](https://cr.yp.to/papers/m3-20010811-retypeset-20220327.pdf),
