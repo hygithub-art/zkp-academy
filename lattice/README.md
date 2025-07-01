@@ -61,7 +61,7 @@
 - 第四节课：Why NTT and how it works
   - 讲师：Bing，  时间：6 月 26 日晚 8 点（星期四）
   - 课程回放：[YouTube视频链接](https://youtu.be/94c3I3uXp6A)
-  - 课件：
+  - 课件：[NTT](https://github.com/coset-io/zkp-academy/blob/main/lattice/slides/NTT.pdf)
   - 推荐阅读：
     - [Multidigit Multiplication For Mathematicians](https://cr.yp.to/papers/m3-20010811-retypeset-20220327.pdf),
     - [A Complete Beginner Guide to the Number Theoretic Transform (NTT)](https://eprint.iacr.org/2024/585.pdf)
@@ -74,7 +74,7 @@
   - 讲师：Yingfei，  时间：7 月 1 日晚 8 点（星期二）
   - 课程回放：
   - 推荐阅读：Chapter 5, [Basic Lattice Cryptography](https://eprint.iacr.org/2024/1287.pdf)
-  - 课件：
+  - 课件：[Lattice-3](https://github.com/coset-io/zkp-academy/blob/main/lattice/slides/Lattice-3.pdf)
 - 第六节课：Building SNARKs
   - 讲师：高老师，时间：7 月 3 日晚 8 点（星期四）
   - 课程回放：
