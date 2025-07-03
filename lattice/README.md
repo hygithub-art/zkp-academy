@@ -72,7 +72,7 @@
 
 - 第五节课：Ajtai Commitment and Lyubashevsky Signature/Proofs
   - 讲师：Yingfei，  时间：7 月 1 日晚 8 点（星期二）
-  - 课程回放：
+  - 课程回放：[Youtube视频链接](https://youtu.be/VSFvwAKYWq0)
   - 推荐阅读：Chapter 5, [Basic Lattice Cryptography](https://eprint.iacr.org/2024/1287.pdf)
   - 课件：[Lattice-3](https://github.com/coset-io/zkp-academy/blob/main/lattice/slides/Lattice-3.pdf)
 - 第六节课：Building SNARKs
