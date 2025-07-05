@@ -77,7 +77,7 @@
   - 课件：[Lattice-3](https://github.com/coset-io/zkp-academy/blob/main/lattice/slides/Lattice-3.pdf)
 - 第六节课：Building SNARKs
   - 讲师：高老师，时间：7 月 3 日晚 8 点（星期四）
-  - 课程回放：
+  - 课程回放：[Youtube视频链接](https://youtu.be/tS5f6UtJ8PQ)
   - 课件：[Building SNARKs](https://github.com/coset-io/zkp-academy/tree/main/lattice/slides/6.Building_SNARKs.pdf)
   - 推荐阅读：[How to Make SNARKs](https://www.youtube.com/watch?v=KjkIQLJk4eQ)
 - 答疑：周六晚上 8 点
