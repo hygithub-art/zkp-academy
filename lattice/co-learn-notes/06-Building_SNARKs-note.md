@@ -49,7 +49,7 @@ V：检测π，输出1或0。
 
 定义P的time bound：这个function可以在T time steps里完成证明。
 
-定义V的time bound：由于V会把function和x都会读一遍，所以有poly(T) or poly(|F|+|x|+$\log T$)，其中T>|F|，T>|x|。
+定义V的time bound：由于V会把function和x都会读一遍，所以有poly(T) or poly(|F|+|x|+ $\log T$)，其中T>|F|，T>|x|。
 
 **所有的snark都需要setup：Public（Transparent）setup和Private setup。**
 Public setup：setup的randomness完全是public的。
@@ -139,12 +139,12 @@ Polynomial IOP：每次P发的oracle是polynomial，V query 这些polynomial的e
 
 ## PPT第15页
 
-用PCS：对polynomial $f_1(X)$承诺，比如对它的系数向量算commitment得到$\mathsf{Com}(f_1)$。
+用PCS：对polynomial $f_1(X)$承诺，比如对它的系数向量算commitment得到 $\mathsf{Com}(f_1)$。
 
-V返回evaluation query $z_1$，P返回$v=f_1(z_1)$，以及small size的π来证明$f_1(X)$在$z_1$处确实等于v。
+V返回evaluation query $z_1$，P返回 $v=f_1(z_1)$，以及small size的π来证明 $f_1(X)$在 $z_1$处确实等于v。
 
-其中，witness是$f_1(X)$，public input是$\mathsf{Com}(f_1)$，$z_1$和evaluation值v。 
+其中，witness是 $f_1(X)$，public input是 $\mathsf{Com}(f_1)$， $z_1$和evaluation值v。 
 
 对于多变量PCS：把上述符号换成下面这些即可。
 
-$f(\mathbf X)=f(X_1,\dots ,X_m)\in\mathbb F[\mathbf X]$，$\mathbf z=(z_1,\dots ,z_m)\in\mathbb F^m$ ，$v=f(\mathbf z)\in\mathbb F$ .
+$f(\mathbf X)=f(X_1,\dots ,X_m)\in\mathbb F[\mathbf X]$， $\mathbf z=(z_1,\dots ,z_m)\in\mathbb F^m$ ， $v=f(\mathbf z)\in\mathbb F$ .
